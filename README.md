@@ -4,7 +4,7 @@ A new Flutter application that keeps tracks of score of game played between two 
 
 Screenshot: 
 
-![Alt text for your video](https://1.bp.blogspot.com/-hE56bkFsvKk/XEiaXoC9FqI/AAAAAAAATbI/r84_bjHmtukfvSMExZn9QYRKIA9Kld0VQCLcBGAs/s320/Screen%2BShot%2B2019-01-23%2Bat%2B10.15.04%2BPM.png)
+<img align="center" src="https://1.bp.blogspot.com/-hE56bkFsvKk/XEiaXoC9FqI/AAAAAAAATbI/r84_bjHmtukfvSMExZn9QYRKIA9Kld0VQCLcBGAs/s320/Screen%2BShot%2B2019-01-23%2Bat%2B10.15.04%2BPM.png" height="1000" width="400">
 
 ## Getting Started
 
