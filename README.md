@@ -2,9 +2,26 @@
 
 A new Flutter application that keeps tracks of score of game played between two teams using flutter scope model.
 
+Medium Article : https://medium.com/devmins/scopedmodel-score-counter-app-using-scopedmodel-way-of-state-management-in-the-flutter-adab60c255f3
+
 Screenshot: 
 
-<img align="center" src="https://2.bp.blogspot.com/-Lddt0s997uk/XExUpBce1KI/AAAAAAAATdI/Kuy6cQgiMdorYanH9P0gle9uA4B_NZyNwCLcBGAs/s1600/2019_01_26_17_19_07.gif" height="350" width="180">
+![Alt text for your video](https://2.bp.blogspot.com/-Lddt0s997uk/XExUpBce1KI/AAAAAAAATdI/Kuy6cQgiMdorYanH9P0gle9uA4B_NZyNwCLcBGAs/s1600/2019_01_26_17_19_07.gif)
+
+
+Follow me:
+
+Twitter : https://twitter.com/imRaviSSingh
+
+Facebook : https://www.facebook.com/itsravishankarsingh
+
+Instagram : https://www.instagram.com/itsravishankarsingh/
+
+Github : https://github.com/ravishankarsingh1996
+
+LinkedIn : https://www.linkedin.com/in/itsravishankarsingh/
+
+About.me :https://about.me/itsravishankarsingh
 
 ## Getting Started
 
